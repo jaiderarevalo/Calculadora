@@ -1,6 +1,5 @@
 {
-  "name": "calculadora",
-  "homepage": "https://jaiderarevalo.github.io/Calculadora/",
+  "name": "calculadora",  
   "private": true,
   "version": "0.0.0",
   "type": "module",
